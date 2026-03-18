@@ -53,7 +53,7 @@ I'm looking for a remote position in a team with high standards and real problem
 | Project | Stack | Links |
 |---|---|---|
 | **Tee-Z** — Ecommerce de remeras | React, Express, MongoDB, Node.js | [Demo](https://tee-z.netlify.app/) · [Front](https://github.com/belluchii/tee-z-front) · [Back](https://github.com/belluchii/tee-z-back) |
-| **Amazon Indexed Search** — Búsqueda indexada de 850k productos | Vue, Fastify, MongoDB, Node.js | [Demo](https://amazon-index-search.netlify.app/) · [Front](https://github.com/belluchii/index-search-front) · [Back](https://github.com/belluchii/index-search-back) |
+| **Amazon Indexed Search** — Búsqueda indexada de 500k productos | Vue, Fastify, MongoDB, Node.js | [Demo](https://amazon-index-search.netlify.app/) · [Front](https://github.com/belluchii/index-search-front) · [Back](https://github.com/belluchii/index-search-back) |
 
 ---
 

@@ -48,7 +48,7 @@ I'm looking for a remote position in a team with high standards and real problem
 
 ---
 
-### 📂 Projects
+### 📂 Main Projects
 
 | Project | Stack | Links |
 |---|---|---|
@@ -68,8 +68,5 @@ I'm looking for a remote position in a team with high standards and real problem
 <p align="center">
   <a href="https://linkedin.com/in/valentin-berger-dev" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-  </a>
-  <a href="https://codepen.io/belluchii" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" height="30" width="40" />
   </a>
 </p>

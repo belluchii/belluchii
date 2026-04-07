@@ -57,14 +57,6 @@ I'm looking for a remote position in a team with high standards and real problem
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=belluchii&show_icons=true&locale=en&layout=compact" alt="belluchii" />
-</p>
-
----
-
 <p align="center">
   <a href="https://linkedin.com/in/valentin-berger-dev" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
